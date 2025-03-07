@@ -21,3 +21,32 @@ I'm a data professional with a strong background in data analysis, data science,
 *   **Cloud Technologies:** Azure (Repos, DevOps)
 *   **Databases:** SQL, Neo4j
 *   **Agile Methodologies:** Azure DevOps, Scrum
+
+## Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/lucaspiero/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lucas Piero LinkedIn" height="30" width="40" /></a>
+</p>
+
+## Languages and Tools
+
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="ms sql server" width="40" height="40"/>
+</a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=48&id=qYfwpsRXEcpc&format=png" alt="powerbi" width="40" height="40"/>
+</a>
+<a href="https://www.neo4j.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="neo4j" width="40" height="40"/>
+</a>
+<a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+</a>
+</p>
